@@ -33,6 +33,7 @@ background-image: linear-gradient(to right, #434343 0%, black 100%);}
 }
 .h1{
   color:#adb0b3;
+  font-family: 'Roboto',sans-serif;
   
   
 }
@@ -71,7 +72,7 @@ hr{
 .about p{
   color:white;
   font-family:'Chivo Mono', monospace;
-  font-size: 20px;
+  font-size: 10px;
   margin: 70px;
 }
 .container{
@@ -87,7 +88,7 @@ hr{
 }
 .box1 span{
   font-family: 'Poppins',sans-serif;
-  font-size: 1em;
+  font-size: 0.7em;
   color:white;
 }
 
@@ -102,4 +103,13 @@ hr{
 background-color:#f04643;
 transition: 500ms linear;
   
+}
+.contact .c{
+  font-family: 'Poppins',sans-serif;
+  font-size: 10px;
+  color:white;
+  margin: 9rem;
+}
+.contact{
+  margin: 10rem;
 }
